@@ -1,5 +1,4 @@
-# FresaCnc
-Fresa CNC RaspBerry Pi
+# FresaCnc RaspBerry Pi
 
 Sistema de testes para controle de uma mesa XYZ com Raspberry PI
 
