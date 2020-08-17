@@ -9,9 +9,11 @@ Linhas que nao iniciam com esses caracteres serão ignoradas.
 As coordenadas XYZ serão separadas por esses comandos
 Ex:
 
-+100+100+100\r\n
--100+000+000\r\n
-+124-124+146\r\n
++100+100+100
+
+-100+000+000
+
++124-124+146
 
 
 
